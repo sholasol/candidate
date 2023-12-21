@@ -6,7 +6,7 @@ function Skills() {
     <section className="skill-section" id="mySkill">
         <div className="portfolio-container">
             <p className="section-title">My Skills</p>
-            <h2 className="skills-header">My Epertise</h2>
+            <h2 className="skills-header">My Expertise</h2>
         </div>
         <div className="skill-container">
             {data?.skills?.map((item, index) =>(
